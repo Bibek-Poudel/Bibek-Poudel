@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This account is mostly run by bots for tests, please visit [](https://github.com/poudel-bibek) instead
+
 <!--
 **Bibek-Poudel/Bibek-Poudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
